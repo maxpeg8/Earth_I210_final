@@ -1,4 +1,4 @@
-## Assignment 1: Git Readme
+## Assignment 2: Blog
 
 ### Blog Topic Summary
 
