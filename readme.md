@@ -4,18 +4,30 @@
 
 ### Index page : https://maxpeg8.github.io/Earth_I210_final/index.html
 
-### Websites vs Web Applications
+### Project Summary
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+### Live Link
 
-### VS Code & Extensions
+#### Index page: [Home Page](https://maxpeg8.github.io/Earth_I210_final/index.html)
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+### Key Takeaways
 
-### Version Control, Git, & GitHub
+Show understanding of web developement techniques, such as:
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+### Core Webpages
 
-### Markdown & Documentation
+#### Home Page:
 
-Brief description of understanding. Use any combination of markdown techniques. Should be more than 2 sentences.
+- html
+- css
+- js
+
+### Design Choices
+
+### Members & Responsibilities
+
+Max - President, Analyst
+
+Miranda - Scrum Master, Architect
+
+Ayaan - Designer, Presenter
