@@ -28,9 +28,12 @@ Show understanding of web developement techniques, such as:
 
 ### Core Webpages
 
-#### Home Page:
-
-What is it about?
+- Home Page
+  - what is it about?
+- XX Page
+  - what is it about?
+- XXX Page
+  - what is it about?
 
 ### Design Choices
 
@@ -38,8 +41,23 @@ List any websites that you might reference to influence you styling choices
 
 ### Members & Responsibilities
 
-Max - President, Analyst
+Max:
 
-Miranda - Scrum Master, Architect
+- President
+  - Submit assignments, write project summary section
+- Analyst
+  -Write key takeaways section
 
-Ayaan - Designer, Presenter
+Miranda:
+
+- Scrum Master
+  - Write members and responsibilities section
+- Architect
+  - Write core webpages section
+
+Ayaan:
+
+- Designer
+  - Write design choices section
+- Presenter
+  - Will be the primary presenter
