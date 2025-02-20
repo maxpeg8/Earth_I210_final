@@ -20,11 +20,11 @@ We chose this topic for two main reasons; it was a theme category provided, and 
 Show understanding of web developement techniques, such as:
 
 - html
-- - text here
+  - text here
 - css
-- - text here
+  - text here
 - js
-- - text here
+  - text here
 
 ### Core Webpages
 
