@@ -40,24 +40,3 @@ Show understanding of web developement techniques, such as:
 List any websites that you might reference to influence you styling choices
 
 ### Members & Responsibilities
-
-Max:
-
-- President
-  - Submit assignments, write project summary section
-- Analyst
-  -Write key takeaways section
-
-Miranda:
-
-- Scrum Master
-  - Write members and responsibilities section
-- Architect
-  - Write core webpages section
-
-Ayaan:
-
-- Designer
-  - Write design choices section
-- Presenter
-  - Will be the primary presenter
