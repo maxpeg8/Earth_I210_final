@@ -29,11 +29,12 @@ Show understanding of web developement techniques, such as:
 ### Core Webpages
 
 - Home Page
-  - what is it about?
-- XX Page
-  - what is it about?
-- XXX Page
-  - what is it about?
+
+  - what is it about? Talks about moons on uranus. Specifies details of each moon. Little tabs of moons signifying which moon is which via boxes/button. About section too. Puck, Miranda, Ariel, Umbriel, Titania, and Oberon. Short descriptions,
+    2 people assigned two moons, 1 person does home page and 1 moon,
+
+- Individual Moon Pages
+  - what is it about? Each has info about size of moons, makeup of moon, and origin, pictures of moon. Fun facts of moons.
 
 ### Design Choices
 
