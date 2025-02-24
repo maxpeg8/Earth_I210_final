@@ -52,7 +52,7 @@ Max:
 - President
   - Submit assignments, write project summary section
 - Analyst
-  -Write key takeaways section
+  - Write key takeaways section
 
 Miranda:
 
