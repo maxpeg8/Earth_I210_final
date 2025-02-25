@@ -38,7 +38,13 @@ Show understanding of web developement techniques, such as:
 
 ### Design Choices
 
-List any websites that you might reference to influence you styling choices
+https://www.bing.com/search?pglt=417&q=uranus+moons+order&cvid=46e6e25004774361823161135ecb9f27&gs_lcrp=EgRlZGdlKgYIABBFGDkyBggAEEUYOTIGCAEQABhAMgYIAhAAGEAyBggDEAAYQDIGCAQQABhAMgYIBRAAGEAyBggGEAAYQDIGCAcQABhAMgYICBAAGEDSAQgyNTIxajBqMagCALACAA&FORM=ANNTA1&PC=LCTS
+
+Uranus Moons - NASA Science
+
+https://science.nasa.gov/solar-system/moons/
+
+Uranus' moons — Names, number and exploration | Space
 
 ### Members & Responsibilities
 
