@@ -28,6 +28,8 @@ p {
 /* #5f656b */
 /* black */
 
+/* Nav Styling */
+
 nav ul {
   background-color: #e1eeee;
   list-style: none;
@@ -47,3 +49,5 @@ nav a {
   font-weight: bold;
   text-transform: uppercase;
 }
+
+/* Home Page Styling */
