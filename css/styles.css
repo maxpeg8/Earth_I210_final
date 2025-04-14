@@ -31,7 +31,7 @@ p {
 /* Nav Styling */
 
 nav ul {
-  background-color: #e1eeee;
+  background-color: #d1e7e7;
   list-style: none;
   padding: 20px;
   display: flex;
@@ -51,3 +51,48 @@ nav a {
 }
 
 /* Home Page Styling */
+
+.content {
+  background-color: #e1eeee;
+  padding: 10px;
+}
+
+.moonTabSection {
+  /* background-color: lightgray; */
+  /* display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  gap: 40px; */
+}
+
+.moonTab {
+  background-color: #a3bcdb;
+
+  text-align: center;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  /* padding: 20px; */
+  border-radius: 5px;
+  width: 200px;
+}
+
+.moonTab img {
+  height: 200px;
+  width: 200px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+}
+
+.moonTabName {
+  background-color: #d1e7e7;
+  margin-top: 10px;
+  padding: 3px;
+  font-size: 22px;
+}
+
+.moonTabDescribe {
+  background-color: lightgreen;
+  /* margin-top: 10px; */
+  padding: 3px;
+  font-size: 18px;
+}
