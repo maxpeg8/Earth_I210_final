@@ -6,6 +6,7 @@
 html,
 body {
   height: 100%;
+  background-color: #d1e7e7;
 }
 h1,
 h2,
@@ -31,7 +32,7 @@ p {
 /* Nav Styling */
 
 nav ul {
-  background-color: #d1e7e7;
+  background-color: #e1eeee;
   list-style: none;
   padding: 20px;
   display: flex;
@@ -53,46 +54,57 @@ nav a {
 /* Home Page Styling */
 
 .content {
-  background-color: #e1eeee;
   padding: 10px;
 }
 
 .moonTabSection {
   /* background-color: lightgray; */
-  /* display: grid;
+  /* padding: 20px; */
+  display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 40px; */
+  gap: 40px;
 }
 
 .moonTab {
-  background-color: #a3bcdb;
+  background-color: #e1eeee;
 
   text-align: center;
   align-items: center;
   display: flex;
   flex-direction: column;
   /* padding: 20px; */
-  border-radius: 5px;
-  width: 200px;
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  width: 350px;
+}
+
+.moonTabInfo {
+  box-shadow: 3px 5px 3px #74869f;
+  text-align: left;
+  padding: 10px 12px;
 }
 
 .moonTab img {
-  height: 200px;
-  width: 200px;
+  /* height: 200px; */
+  width: 350px;
   border-top-left-radius: 5px;
   border-top-right-radius: 5px;
+  /* box-shadow: 3px 5px 3px black; */
 }
 
 .moonTabName {
-  background-color: #d1e7e7;
-  margin-top: 10px;
-  padding: 3px;
-  font-size: 22px;
+  /* background-color: #d1e7e7; */
+  color: #5f656b;
+  /* margin-top: 10px; */
+  /* padding: 3px; */
+  font-size: 24px;
+  font-weight: bold;
 }
 
 .moonTabDescribe {
-  background-color: lightgreen;
+  /* background-color: lightgreen; */
   /* margin-top: 10px; */
-  padding: 3px;
+  color: #5f656b;
+  /* padding: 3px; */
   font-size: 18px;
 }
