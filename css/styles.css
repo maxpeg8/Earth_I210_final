@@ -58,9 +58,14 @@ nav a {
   padding: 10px;
 }
 
+.content img {
+  width: 100%;
+}
+
 .moonTabSection {
-  /* background-color: lightgray; */
+  background-color: lightgray;
   /* padding: 20px; */
+  /* width: 100%; */
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
   gap: 40px;
