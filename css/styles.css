@@ -28,7 +28,7 @@ p {
 /* more */
 /* #5f656b Text on #e1eeee background*/
 /* black Text on #d1e7e7 background*/
-/* #74869f  Shadows */
+/* #74869f Shadows */
 
 /* Nav Styling */
 
@@ -108,4 +108,34 @@ nav a {
   color: #5f656b;
   /* padding: 3px; */
   font-size: 18px;
+}
+
+/* Moon Pages */
+
+section {
+  display: flex;
+}
+
+.moonImg {
+  width: 600px;
+}
+
+section h1 {
+  background-color: #b8d0e8;
+  font-size: 36px;
+  text-decoration: 4px underline;
+}
+
+.moonInfo {
+  padding: 50px;
+  background-color: cornsilk;
+}
+
+.moonDescription {
+  background-color: rgb(212, 161, 125);
+  margin: 40px 0px;
+}
+
+.moonStats {
+  background-color: #b9c0ca;
 }
