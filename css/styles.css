@@ -62,6 +62,16 @@ nav a {
   width: 100%;
 }
 
+.content h1 {
+  margin: 40px 0px;
+  font-size: 40px;
+}
+
+.content h2 {
+  margin: 20px 0px;
+  font-size: 30px;
+}
+
 .moonTabSection {
   /* background-color: lightgray; */
   /* padding: 20px; */
@@ -73,7 +83,6 @@ nav a {
 
 .moonTab {
   background-color: #e1eeee;
-
   text-align: center;
   align-items: center;
   display: flex;
@@ -121,6 +130,10 @@ section {
   display: flex;
   /* align-items: center; */
   justify-content: space-between;
+}
+
+.moonTabSection a {
+  text-decoration: none;
 }
 
 .moonImg {
