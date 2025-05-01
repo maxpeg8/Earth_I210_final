@@ -72,6 +72,11 @@ nav a {
   font-size: 30px;
 }
 
+.headerP {
+  font-size: 15px;
+  margin-top: -15px;
+}
+
 .moonTabSection {
   /* background-color: lightgray; */
   /* padding: 20px; */
