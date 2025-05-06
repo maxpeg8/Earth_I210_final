@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Home Page</title>
+    <title>Favorite Page</title>
     <link rel="stylesheet" href="css/styles.css" />
   </head>
   <body>
@@ -31,26 +31,25 @@
           <a href="oberon.html">Oberon</a>
         </li>
         <li>
-          <a href="contact.html" class="navSelected">Contact</a>
+          <a href="favorite.html" class="navSelected">Favorite</a>
         </li>
       </ul>
     </nav>
     <div class="content">
-      <div class="contact">
-        <h1>CONTACT US</h1>
-        <div class="contactform">
-          <div class="formInfo">
-            <input type="text" placeholder="First Name" class="formInput" />
-            <input type="text" placeholder="Last Name" class="formInput" />
-            <input type="text" placeholder="Email" class="formInput" />
-            <input type="text" placeholder="Phone Number" class="formInput" />
-          </div>
-          <input type="text" placeholder="Message" class="formMes" />
-          <div class="submit">SUBMIT</div>
+      <h1>Your Favorite Moons</h1>
+      <form action="#" id="new-moon">
+        <div>
+          <label for="moon-text">Favorite Moons:</label>
+          <input type="text" id="moon-text" name="moon-text" />
         </div>
-      </div>
+        <div>
+          <input type="submit" value="Add New Moon" />
+        </div>
+      </form>
+
+      <ul id="recMoons"></ul>
     </div>
 
-    <script src="js/contact.js" type="module"></script>
+    <script src="js/favorite.js" type="module"></script>
   </body>
 </html>
